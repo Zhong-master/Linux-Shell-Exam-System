@@ -8,4 +8,4 @@ All codes are annotated.
 
 See the flow chart for the specific process of the project
 
-![image](https://github.com/Zhong-master/Linux-Shell-Exam-System/blob/main/flow_chart.png)
+<img src="https://github.com/Zhong-master/Linux-Shell-Exam-System/blob/main/flow_chart.png" width=50%>
